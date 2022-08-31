@@ -1,2 +1,4 @@
-# Ola Mundo
+# Olá, Mundo!
  Primeiro repositorio github
+
+ Repositório criado para estudos!
